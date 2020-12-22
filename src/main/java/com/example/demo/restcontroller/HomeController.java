@@ -9,7 +9,7 @@ import com.example.demo.models.*;
 public class HomeController 
 {
 	@GetMapping("/")
-	public String hello()
+	public String greetings()
 	{
 		return "Hello";
 	}
