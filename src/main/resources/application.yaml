@@ -1,0 +1,9 @@
+server:  port: 8082
+app:
+  users:
+    admin:
+      name: Sairandhree
+      email: sairandhree@gmail.com
+    ituser:
+      name: itusername
+      email: ituseremail@gmail.com

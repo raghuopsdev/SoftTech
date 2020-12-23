@@ -10,6 +10,7 @@ import com.example.demo.models.*;
 //HomeController homeController = new HomeController()
 //homeController.setAdminUser = getadminUser from App contx
 //put homecontroller in app context 
+//Dependency Injection Example
 
 @RestController
 public class HomeController 
