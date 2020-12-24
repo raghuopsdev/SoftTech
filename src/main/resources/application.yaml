@@ -1,9 +1,15 @@
-server:  port: 8082
+server:
+  port: 8082
+  
 app:
   users:
     admin:
       name: Sairandhree
       email: sairandhree@gmail.com
-    ituser:
+    itUser:
       name: itusername
-      email: ituseremail@gmail.com
+      email: ituseremail@gmail.com 
+      
+spring:
+   profiles:
+     active: dev

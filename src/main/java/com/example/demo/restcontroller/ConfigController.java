@@ -24,8 +24,15 @@ public class ConfigController
 	public String getItUserName() {
 		return itUserName;
 	}
+	
+	@Value("${db.name}")
+	public String dbName;
 
-
+	@GetMapping("/dbname")
+	public String getdbName() { 
+		return dbName;
+	}
+	
 
 //	@GetMapping("/config")
 //	public String greetings()

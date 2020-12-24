@@ -13,10 +13,10 @@ public class SpringBootDemoApplication {
 
 	public static void main(String[] args) {
 		ApplicationContext ctx = SpringApplication.run(SpringBootDemoApplication.class, args);
-		for (String bean : ctx.getBeanDefinitionNames())
-		{
-			System.out.println("Bean ---->"+bean);
-		}
+//		for (String bean : ctx.getBeanDefinitionNames())
+//		{
+//			System.out.println("Bean ---->"+bean);
+//		}
 	}
 
 	@Bean

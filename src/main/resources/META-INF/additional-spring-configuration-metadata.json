@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "app.users.admin.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.admin.name'"
+  },
+  {
+    "name": "app.users.admin.email",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.admin.email'"
+  },
+  {
+    "name": "app.users.ituser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.ituser.name'"
+  },
+  {
+    "name": "app.users.ituser.email",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.ituser.email'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.email",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.email'"
+  }
+]}
