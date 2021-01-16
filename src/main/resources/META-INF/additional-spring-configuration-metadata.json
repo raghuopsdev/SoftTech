@@ -43,5 +43,50 @@
     "name": "app.users.itUser.email",
     "type": "java.lang.String",
     "description": "A description for 'app.users.itUser.email'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "db.name",
+    "type": "java.lang.String",
+    "description": "A description for 'db.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
+  },
+  {
+    "name": "app.users.itUser.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.users.itUser.name'"
   }
 ]}
